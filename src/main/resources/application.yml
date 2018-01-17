@@ -1,0 +1,10 @@
+
+logging:
+   level:
+     com.example: DEBUG
+
+server:
+  port: 8080
+
+hello:
+  greeting: Bonjour
